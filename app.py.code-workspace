@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../coachence-app-website/coachingapp"
+		},
+		{
+			"name": "coachence-lambda",
+			"path": "../../../Architha/coachence-lambda/daily-processes/daily_quality/coachence-lambda"
+		}
+	]
+}
